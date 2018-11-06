@@ -1,58 +1,23 @@
-## Introduction
++ Click on **My Blocks**, and then click **Make a Block**.
 
-Add project description here. What will learners be making?
+![My Blocks](images/my-blocks-annotated.png)
 
-### What you will make
++ You can create blocks that have 'gaps' to add data. These 'gaps' are called __parameters__. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
---- no-print ---
-Add instructions for using the embedded content here.
+![Create a new block with parameters](images/parameter-create-annotated.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
++ If you want to add some text between parameters, you can add label text:
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![Create a new block with parameters](images/parameter-label-text-annotated.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
++ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
 
-+ Describe hardware here
+![Define a new block with parameters](images/parameter-define-annotated.png)
 
-### Software
++ Now you add data as parameters into the gaps of your new block.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![Use a new block with parameters](images/parameter-use.png)
 
-### Downloads
++ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+![Test a new block with parameters](images/parameter-test.png)
