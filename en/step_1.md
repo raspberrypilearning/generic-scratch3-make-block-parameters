@@ -6,10 +6,6 @@
 
 ![Create a new block with parameters](images/parameter-create-annotated.png)
 
-+ If you want to add some text between parameters, you can add label text:
-
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
-
 + You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
 
 ![Define a new block with parameters](images/parameter-define-annotated.png)
@@ -21,3 +17,8 @@
 + Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
 
 ![Test a new block with parameters](images/parameter-test.png)
+
++ If you want to add some text between parameters, you can add label text:
+
+![Create a new block with parameters](images/parameter-label-text-annotated.png)
+
