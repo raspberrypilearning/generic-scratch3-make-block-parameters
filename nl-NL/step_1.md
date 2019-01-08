@@ -2,22 +2,22 @@
 
 ![My Blocks](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Je kunt blokken met 'gaten' maken om gegevens toe te voegen. Deze 'gaten' worden **parameters** genoemd. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
 ![Create a new block with parameters](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ Je kunt vervolgens je nieuwe blok definiëren en de gegevens gebruiken door de cirkelblokken te verslepen om ze in je code te gebruiken.
 
 ![Define a new block with parameters](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ Nu voeg je gegevens als parameters toe aan de gaten van je nieuwe blok.
 
 ![Use a new block with parameters](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ Gebruik het nieuwe `definieer` blok met de gaten die je hebt gevuld door er code aan toe te voegen en deze aan je script toe te voegen.
 
 ![Test a new block with parameters](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ Als je wat tekst tussen de parameters wilt toevoegen, kun je een tekstlabel toevoegen:
 
 ![Create a new block with parameters](images/parameter-label-text-annotated.png)
