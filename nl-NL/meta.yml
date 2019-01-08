@@ -1,7 +1,7 @@
 ---
-title: Making a block with parameters
+title: Een blok met parameters maken
 hero_image: images/banner.png
-description: Making a block with parameters
+description: Een blok met parameters maken
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block with parameters
+    title: Een blok met parameters maken
