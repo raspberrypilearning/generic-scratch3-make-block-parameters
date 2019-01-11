@@ -1,8 +1,8 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Klik op **Mijn blokken**en klik vervolgens op **Maak een blok**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Mijn blokken](images/my-blocks-annotated.png)
 
-+ Je kunt blokken met 'gaten' maken om gegevens toe te voegen. Deze 'gaten' worden **parameters** genoemd. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Je kunt blokken met 'gaten' maken om gegevens toe te voegen. Deze 'gaten' worden **parameters** genoemd. Om parameters toe te voegen, klik je op een van de onderstaande opties om het type parameter te kiezen dat je wilt toevoegen. Geef vervolgens je parameter een naam en klik op **OK**.
 
 ![Create a new block with parameters](images/parameter-create-annotated.png)
 
