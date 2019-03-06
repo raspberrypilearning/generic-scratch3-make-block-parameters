@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **My Blocks**वर क्लिक करा आणि नंतर **Make a Block** वर क्लिक करा.
 
-![My Blocks](images/my-blocks-annotated.png)
+![माझे ब्लॉक्स](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ आपण डेटा जोडण्यासाठी 'अंतर' असलेल्या ब्लॉक तयार करू शकता. हे 'अंतर'ला **पॅरामीटर्स**म्हणतात. पॅरामीटर्स जोडण्यासाठी, आपण जो डेटा जोडू इच्छिता तो निवडण्यासाठी खालील पर्यायांवर क्लिक करा. मग आपल्या डेटाला एक नाव द्या, आणि क्लिक करा **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![पॅरामीटर्ससह नवीन ब्लॉक तयार करा](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ त्यानंतर आपण आपला नवीन ब्लॉक परिभाषित करू शकता आणि आपल्या कोडमध्ये गोलाकार ब्लॉक्स वापरुन डेटाचा वापर करू शकता.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![पॅरामीटर्ससह नवीन ब्लॉक परिभाषित करा](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ आता आपण आपल्या नवीन ब्लॉकच्या अंतरांमध्ये पॅरामीटर्स म्हणून डेटा जोडा.
 
-![Use a new block with parameters](images/parameter-use.png)
+![पॅरामीटर्ससह नवीन ब्लॉक वापरा](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ नवीन `define` ब्लॉक वापरा आणि त्यामध्ये कोड संलग्न करुन आपल्या स्क्रिप्टवर जोडून अंतर भरा.
 
-![Test a new block with parameters](images/parameter-test.png)
+![पॅरामीटर्ससह नवीन ब्लॉकची चाचणी घ्या](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ आपण पॅरामीटर्समध्ये काही मजकूर जोडू इच्छित असल्यास, आपण लेबल मजकूर जोडू शकता:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![पॅरामीटर्ससह नवीन ब्लॉक तयार करा](images/parameter-label-text-annotated.png)
