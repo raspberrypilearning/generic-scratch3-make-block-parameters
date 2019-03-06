@@ -1,16 +1,16 @@
 ---
-title: Making a block with parameters
+title: पॅरामीटर्ससह ब्लॉक बनवणे
 hero_image: images/banner.png
-description: Making a block with parameters
-theme: red
-duration: 1
+description: पॅरामीटर्ससह ब्लॉक बनवणे
+theme: लाल
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
-curriculum: builder, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+curriculum: बिल्डर, डिझाइन-0, प्रोग्रामिंग-१, भौतिक संगणन-0, उत्पादन-0, समुदाय-0
 interests: ""
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block with parameters
+    title: पॅरामीटर्ससह ब्लॉक बनवणे
