@@ -14,9 +14,9 @@
 
 ![Değişkenli yeni bir bloğu kullanın](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ Kod iliştirip boşluklarını doldurduğunuz yeni `tanım` bloğunu komut dosyasına ekleyerek kullanın.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Değişkenli yeni bir bloğu test edin](images/parameter-test.png)
 
 + If you want to add some text between parameters, you can add label text:
 
