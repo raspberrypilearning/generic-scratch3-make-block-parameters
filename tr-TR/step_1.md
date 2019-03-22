@@ -18,6 +18,6 @@
 
 ![Değişkenli yeni bir bloğu test edin](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ Değişkenler arasına başka metin yazmak istiyorsanız, etiketleri ekleyebilirsiniz:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![Değişkenlerle yeni bir blok oluşturun](images/parameter-label-text-annotated.png)
