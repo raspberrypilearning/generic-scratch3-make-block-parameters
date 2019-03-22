@@ -1,18 +1,18 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **Bloklarım** sekmesinden **Bir Blok Oluştur**'u tıklayın.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Bloklarım](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Sonradan veri eklemek için 'boşlukları' olan bloklar oluşturabilirsiniz. Bu 'boşluklar', **değişken** olarak adlandırılır. Değişken eklemek için, aşağıdaki seçeneklerden eklemek istediğiniz veri türünü tıklayın. Sonra verinize bir isim verin ve **Tamam**'ı tıklayın.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Değişkenlerle yeni bir blok oluşturun](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ Daha sonra yeni bloğunuzu tanımlayabilir ve bu verileri kodunuzda kullanmak için dairesel blokları sürükleyebilirsiniz.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Değişkenlerle yeni bir blok tanımlayın](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ Şimdi yeni bloğunuzun boşluklarına değişken olarak veri ekleyin.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Değişkenli yeni bir bloğu kullanın](images/parameter-use.png)
 
 + Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
 
