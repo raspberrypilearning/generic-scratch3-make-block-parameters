@@ -1,8 +1,8 @@
 ---
 title: Einen Block mit Parametern erstellen
 hero_image: images / banner.png
-description: Making a block with parameters
-theme: red
+description: Einen Block mit Parametern erstellen
+theme: rot
 duration: 1
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block with parameters
+    title: Einen Block mit Parametern erstellen
