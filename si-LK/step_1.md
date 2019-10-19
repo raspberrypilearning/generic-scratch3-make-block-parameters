@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ ** මගේ කට්ටි(My Blocks)** මත ක්ලික් කරන්න, පසුව ** කට්ටියක් සාදන්න(Make a Block)** මත ක්ලික් කරන්න.
 
-![My Blocks](images/my-blocks-annotated.png)
+![මගේ කට්ටි(blocks)](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ දත්ත එකතු කිරීම සඳහා ඔබට 'හිඩැස්(gaps)' ඇති කට්ටි(blocks) සෑදිය හැකිය. මෙම 'හිඩැස්(gaps)' ** පරාමිතීන්(parameters) ** ලෙස හැඳින්වේ. පරාමිතීන්(parameters) එක් කිරීමට, ඒ සඳහා අවශ්‍ය දත්ත වර්ගය තෝරා ගැනීමට පහත දක්වා ඇති වර්ග වලින් අවශ්‍ය දත්ත වර්ගය මත ක්ලික් කරන්න. ඉන්පසු ඔබේ දත්ත වලට නමක් දී ** හරි(OK) ** මත ක්ලික් කරන්න.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block එකක්) සෑදීම](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ එවිට ඔබට ඔබගේ නව කට්ටිය(new block එක) අර්ථ දැක්විය(define) හැකි අතර, ඔබේ කේතයේ(code) දත්ත භාවිතය සඳහා, රවුම් කට්ටි(circular blocks) ඇද ගැනීමෙන්(dragging) යොදාගත හැක.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block) එකක් නිර්වචනය කිරීම](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ දැන් ඔබ ඔබේ නව කට්ටි(new block) වල ඇති හිඩැස් වලට පරාමිතීන්(parameters) ලෙස දත්ත(data) එක් කරන්න.
 
-![Use a new block with parameters](images/parameter-use.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block) එකක් භාවිතා කිරීම ](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ ඔබ කේත(code) අමුණා හිඩැස් පුරවා සකසා ඇති නව ` නිර්වචන(define) ` කට්ටිය(block) ඔබගේ ස්ක්‍රිප්ටයට(script එකට) එක් කර භාවිත කරන්න.
 
-![Test a new block with parameters](images/parameter-test.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක් (block එකක්) පරීක්ෂා කිරීම](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ ඔබට පරාමිතීන්(parameters) අතරට යම් පෙළක්(text එකක්) එක් කිරීමට අවශ්‍ය නම්, ඔබට ලේබල් පෙළ(label text) එක් කර එය සිදු කළ හැකිය:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block එකක්) සෑදීම](images/parameter-label-text-annotated.png)
