@@ -1,16 +1,16 @@
 ---
-title: Making a block with parameters
-hero_image: images/banner.png
-description: Making a block with parameters
-theme: red
-duration: 1
+title: පරාමිතීන්(parameters) සහිත කට්ටියක්(block එකක්) සෑදීම
+hero_image: images / banner.png
+description: පරාමිතීන්(parameters) සහිත කට්ටියක්(block එකක්) සෑදීම
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: builder, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+curriculum: නිර්මාණකරු, සැලසුම්-0, කේතන වැඩසටහන්-2, භෞතික-පරිගනක-0, නිෂ්පාදනය-0, ප්‍රජා-0
 interests: ""
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block with parameters
+    title: පරාමිතීන්(parameters) සහිත කට්ටියක්(block එකක්) සෑදීම
