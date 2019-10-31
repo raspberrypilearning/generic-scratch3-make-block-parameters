@@ -1,22 +1,22 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Klicke auf **Meine Blöcke** und dann auf **Neuer Block**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Meine Blöcke](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Sie können Blöcke mit "Lücken" erstellen, um Daten hinzuzufügen. Diese "Lücken" werden **Parameter** bezeichnet. Um Parameter hinzuzufügen, klicke auf die folgenden Optionen, um den Typ der Daten auszuwählen, den du hinzufügen möchtest. Dann gibst du deinen Daten eine Name und klickst auf **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Erstellen einen neuen Block mit Parametern](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ Du kannst dann deinen neuen Block definieren und die Daten verwenden, indem du die kreisförmigen Elemente in den entsprechenden Code zu ziehst.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Definieren einen neuen Blocks mit Parametern](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ Jetzt fügst du Daten als Parameter in die Lücken deinen neuen Blocks ein.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Verwenden einen neuen Blocks mit Parametern](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ Verwenden den neuen `Definieren` Block mit den Lücken, die du gefüllt hast, indem du die Code hinzugefügt hast und ihn deinem Skript hinzugefügt hast.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Testen einen neuen Block mit Parametern](images/parameter-test.png)
 
 + If you want to add some text between parameters, you can add label text:
 
