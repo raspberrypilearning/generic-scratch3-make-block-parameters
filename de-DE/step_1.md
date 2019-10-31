@@ -18,6 +18,6 @@
 
 ![Testen einen neuen Block mit Parametern](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ Wenn du Text zwischen den Parametern hinzufügen möchtest, kannst du Beschriftungstext hinzufügen:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![Erstellen einen neuen Block mit Parametern](images/parameter-label-text-annotated.png)
