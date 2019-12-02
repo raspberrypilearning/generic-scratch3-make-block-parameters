@@ -2,8 +2,8 @@
 title: पॅरामीटर्ससह ब्लॉक बनवणे
 hero_image: images/banner.png
 description: पॅरामीटर्ससह ब्लॉक बनवणे
-theme: लाल
-duration: 0
+theme: लाल #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 0 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
