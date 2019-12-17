@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Clique em ** Os Meus blocos ** e, em seguida, clique em ** Criar um bloco **.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Os meus Blocos](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Podes criar blocos que tenham 'espaços' para adicionar dados. Estes 'espaços' são chamados de parâmetros ** **. Para adicionar parâmetros, clica nas opções em baixo para escolher o tipo de dados que desejas adicionar. Em seguida, dá um nome aos teus dados e clica em ** OK. **.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Criar um bloco novo com parâmetros](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ Podes então definir o teu novo bloco e usar os dados arrastando os blocos circulares para usá-los no teu código.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Criar um bloco novo com parâmetros](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ Agora podes adicionar dados como parâmetros nos espaços do teu novo bloco.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Usa um bloco novo com parâmetros](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ Usa o novo bloco ` define ` com os espaços preenchidos, anexando-o ao código e adicionando-o ao teu guião.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Testar um novo bloco com parâmetros](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ Se desejas adicionar algum texto entre os parâmetros, podes adicionar o texto do rótulo:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![Criar um bloco novo com parâmetros](images/parameter-label-text-annotated.png)
