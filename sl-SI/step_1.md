@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Klikni na **Moji bloki** in nato klikni na **Ustvari blok**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Moji bloki](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Lahko ustvariš bloke, ki imajo 'luknje', v katere lahko dodaš podatke. Te 'luknje' imenujemo **parametri**. Za dodajanje parametrov klikni na spodnje možnosti, da izbereš vrsto podatka, ki ga želiš dodati. Nato poimenuj tvoj podatek in klikni **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Ustvari nov blok s parametri](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ Svoj novi blok lahko sedaj definiraš in dodaš podatke, tako da z miško vlečeš okrogle bloke in jih uporabiš v svoji kodi.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Definiraj nov blok s parametri](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ Zdaj dodaš podatke kot parametre v luknje tvojega novega bloka.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Uporabi nov blok s parametri](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ Uporabi novi blok `definiraj` z izpolnjemi luknjami, tako da mu dodaš kodo in da ga dodaš v svoj skript.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Preizkusi nov blok s parametri](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ Če želiš dodati tekst med parametre, lahko uporabiš oznake:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![Ustvari nov blok s parametri](images/parameter-label-text-annotated.png)
