@@ -1,7 +1,7 @@
 ---
-title: Making a block with parameters
+title: Hacer un bloque con parámetros
 hero_image: images/banner.png
-description: Making a block with parameters
+description: Hacer un bloque con parámetros
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block with parameters
+    title: Hacer un bloque con parámetros
