@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **मेरे ब्लॉक (My Blocks)** पर क्लिक करें और फिर **एक ब्लॉक बनाएँ (Make a Block)** पर।
 
-![My Blocks](images/my-blocks-annotated.png)
+![मेरे ब्लॉक](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ आप ऐसे ब्लॉक बना सकते हैं जिनमें डेटा जोड़ने के लिए 'अंतराल' हों। इन 'अंतरालों' को **पैरामीटर (parameters)** कहते हैं। पैरामीटर जोड़ने के लिए, आप जिस प्रकार का डेटा जोड़ना चाहते हैं उसे चुनने के लिए नीचे दिए गए विकल्पों पर क्लिक करें। फिर अपने डेटा को कोई नाम दें, और **ठीक (OK)** पर क्लिक करें।
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![पैरामीटरों वाला एक नया ब्लॉक बनाएँ](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ फिर आप अपने नए ब्लॉक को परिभाषित कर सकते हैं, और सर्कुलर ब्लॉकों को ड्रैग करके उन्हें अपने कोड में उपयोग करके डेटा का उपयोग कर सकते हैं।
 
 ![Define a new block with parameters](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ अब आप डेटा को अपने नए ब्लॉक के अंतरालों में पैरामीटर के रूप में जोड़ते हैं।
 
 ![Use a new block with parameters](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ आपके द्वारा भरे गए अंतरालों के साथ नए `define` ब्लॉक का उपयोग उसमें कोड संलग्न करके और उसे अपनी स्क्रिप्ट में जोड़कर करें।
 
 ![Test a new block with parameters](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ यदि आप पैरामीटरों के बीच कुछ पाठ जोड़ना चाहते हैं, तो आप लेबल पाठ जोड़ सकते हैं:
 
 ![Create a new block with parameters](images/parameter-label-text-annotated.png)
