@@ -12,12 +12,12 @@
 
 + अब आप डेटा को अपने नए ब्लॉक के अंतरालों में पैरामीटर के रूप में जोड़ते हैं।
 
-![Use a new block with parameters](images/parameter-use.png)
+![पैरामीटरों वाले नए ब्लॉक का उपयोग करें](images/parameter-use.png)
 
 + आपके द्वारा भरे गए अंतरालों के साथ नए `define` ब्लॉक का उपयोग उसमें कोड संलग्न करके और उसे अपनी स्क्रिप्ट में जोड़कर करें।
 
-![Test a new block with parameters](images/parameter-test.png)
+![पैरामीटरों वाले नए ब्लॉक का परीक्षण करें](images/parameter-test.png)
 
 + यदि आप पैरामीटरों के बीच कुछ पाठ जोड़ना चाहते हैं, तो आप लेबल पाठ जोड़ सकते हैं:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![पैरामीटरों वाला एक ब्लॉक बनाएँ](images/parameter-label-text-annotated.png)
