@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Нажми **Другие блоки**, а затем нажми **Создать блок**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Другие блоки](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Ты можешь создавать блоки с «пробелами» для добавления данных. Эти «пробелы» называются **параметрами**. Чтобы добавить параметры, нажми на параметры ниже, чтобы выбрать тип данных, которые ты хочешь добавить. Затем дай твоим данным имя и нажми **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Создать новый блок с параметрами](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ Затем ты можешь определить свой новый блок и использовать данные, перетаскивая круглые блоки, чтобы использовать их в своем коде.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Определить новый блок с параметрами](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ Теперь ты добавляешь данные в качестве параметров в промежутки твоего нового блока.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Используй новый блок с параметрами](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ Используй новый блок `определить` с пробелами, которые ты заполнил, прикрепив к нему код и добавив его в свой скрипт.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Протестируй новый блок с параметрами](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ Если ты хочешь добавить текст между параметрами, ты можешь добавить текст метки:
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![Создать новый блок с параметрами](images/parameter-label-text-annotated.png)
