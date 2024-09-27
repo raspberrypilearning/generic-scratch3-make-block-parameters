@@ -1,23 +1,23 @@
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **ブロック定義**をクリックし、次に **ブロックを作る**をクリックします。
 
-![My Blocks](images/my-blocks-annotated.png)
+![ブロック定義](images/my-blocks-annotated.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called **parameters**. To add parameters, click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ データを追加するための「ギャップ」を持つブロックを作成できます。 これらの「ギャップ」は、 **パラメーター**と呼ばれます。 パラメーターを追加するには、以下のオプションをクリックして、追加するデータの種類を選択します。 次に、データに名前を付けて、**OK**をクリックします。
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![パラメーターを使って新しいブロックを作る](images/parameter-create-annotated.png)
 
-+ You can then define your new block, and use the data by dragging the circular blocks to use them in your code.
++ 次に、新しいブロックを定義し、円形のブロックをドラッグしてコード内でデータを使用します。
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![パラメーターを使って新しいブロックを定義する](images/parameter-define-annotated.png)
 
-+ Now you add data as parameters into the gaps of your new block.
++ 次に、新しいブロックのギャップにデータをパラメーターとして追加します。
 
-![Use a new block with parameters](images/parameter-use.png)
+![新しいブロックをパラメーターと共に使う](images/parameter-use.png)
 
-+ Use the new `define` block with the gaps you have filled in by attaching code to it and adding it to your script.
++ コードを添付してスクリプトに追加することで、ギャップを埋めた新しい `定義` ブロックを使用します。
 
-![Test a new block with parameters](images/parameter-test.png)
+![新しいブロックをパラメーターと共に試す](images/parameter-test.png)
 
-+ If you want to add some text between parameters, you can add label text:
++ パラメーター間にテキストを追加する場合は、ラベル テキストを追加できます。
 
-![Create a new block with parameters](images/parameter-label-text-annotated.png)
+![パラメーターを使って新しいブロックを作る](images/parameter-label-text-annotated.png)
